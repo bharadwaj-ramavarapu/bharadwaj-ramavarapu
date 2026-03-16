@@ -10,7 +10,7 @@ Bridging the gap between experimental AI and enterprise-scale production systems
 
 ---
 
-## 📊 Technical Proficiency & GitHub Stats
+
 
 ### 🛠️ Core Languages & Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +20,7 @@ Bridging the gap between experimental AI and enterprise-scale production systems
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 Production-Grade AI Metrics
-* **GenAI Architect:** 5+ years experience building HIPAA-compliant RAG & Agentic workflows.
+* **GenAI Architect:**  2+ years experience building  RAG & Agentic workflows.
 * **Cloud Expert:** Proficient in **Multi-Cloud MLOps** across AWS, GCP, and Azure.
 * **Optimization:** Improved clinical QA latency by **60%** and triage throughput by **35%**.
 
