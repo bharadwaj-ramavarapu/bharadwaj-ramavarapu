@@ -11,14 +11,6 @@ Bridging the gap between experimental AI and enterprise-scale production systems
 ---
 
 
-
-### 🛠️ Core Languages & Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### 🚀 Production-Grade AI Metrics
 * **GenAI Architect:**  2+ years experience building  RAG & Agentic workflows.
 * **Cloud Expert:** Proficient in **Multi-Cloud MLOps** across AWS, GCP, and Azure.
