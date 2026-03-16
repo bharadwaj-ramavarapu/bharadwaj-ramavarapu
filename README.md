@@ -24,13 +24,7 @@ Bridging the gap between experimental AI and enterprise-scale production systems
 * **Cloud Expert:** Proficient in **Multi-Cloud MLOps** across AWS, GCP, and Azure.
 * **Optimization:** Improved clinical QA latency by **60%** and triage throughput by **35%**.
 
-### 📈 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bharadwaj-ramavarapu&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj-ramavarapu&layout=compact&theme=radical&hide=html,javascript&border_radius=10" alt="Top Languages" />
-</p>
 
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
